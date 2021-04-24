@@ -1,0 +1,8 @@
+I just created Empty Remote repository from GitHUb.com account by clicking on the plus icon on top right corner and new repository, and give a name and click create.
+
+
+
+
+And Cloned this repository by clicking on set up in desktop and(Optionally select the location) click on clone.
+
+It cloned our remote to repo local so we can start working locally.
